@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="70d732f9-1360-4563-8658-b7403a9c630e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,14 +25,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/OneDrive/Documents/UnityCommonScripts/Player/Shooting/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://F:/WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/PlayerShoot.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://F:/WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/PlayerShoot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/Bullet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../WebDL/2D Fighter Redux (Empty)/Assets/Scripts/Players/ChangeBool.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/PlayerControllerWJump.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/PlayerHealth.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SoundScripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://F:/WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/PlayerControllerWJump.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://F:/WebDL/UnityProjects/CollabPixelate/Assets/Scripts/PlayerScripts/PlayerHealth.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://F:/WebDL/2D Fighter Redux (Empty)/Assets/Scripts/Players/ChangeBool.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,12 +42,13 @@
         <option value="$USER_HOME$/OneDrive/Documents/UnityCommonScripts/Sound/COND_Sound.cs" />
         <option value="$USER_HOME$/OneDrive/Documents/UnityCommonScripts/Sound/COND_AudioManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SoundScripts/AudioManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerMovementScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SoundScripts/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerScripts/PlayerMovementScript.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1lG57ExVnyyYLRsgq6FjEW38qDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,6 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607210421715</updated>
       <workItem from="1607210426925" duration="10823000" />
+      <workItem from="1616526489537" duration="1795000" />
     </task>
     <servers />
   </component>
@@ -75,6 +97,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
